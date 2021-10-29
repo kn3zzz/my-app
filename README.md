@@ -1,7 +1,4 @@
 # my-app
  
- Bas my app
+ Nije no je ovo.
 
- Al bas bas my app
-
-Ovo jos noviji
